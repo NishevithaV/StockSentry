@@ -10,12 +10,12 @@ StockSentry is a GitHub-based stock market program which leverages the Alpha Van
 
 ### Installation & Setup
 
-All code is written in Python 3.9.0. The following are the required modules to be installed if you wish to clone the repository as seen in the requirements.txt:
+All code is written in Python 3.9.0. The following are the required modules to be installed if you wish to clone the repository as seen in the [requirements.txt](requirements.txt):
 
 ```
-requests == 2.31.0
-pytz == 2023.3.post1
-pushbullet.py == 0.12.0
+requests==2.31.0
+pytz==2023.3.post1
+pushbullet.py==0.12.0
 ```
 
 
@@ -44,3 +44,6 @@ Once you have obtained your API keys, please replace the placeholder names 'PUSH
 
 Finally, the equity symbol of the specific security for which you would like to receive daily updates will have to replace the placeholder 'XXX'. 
 
+
+### License
+This project is licensed under the MIT License. View the [License](LICENSE) file for more information. 
