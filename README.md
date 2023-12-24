@@ -32,9 +32,9 @@ ALPHA_VANTAGE_API_KEY = 'ALPHAV_API_KEY'
 EQUITY_SYMBOL = 'XXX'
 ```
 
-To generate your unique API key for Pushbullet, visit [pushbullet.com](https://www.pushbullet.com/)
+To generate your unique API key for Pushbullet, visit [pushbullet.com](https://www.pushbullet.com/).
 
-Similarly, you can obtain your API key for Alpha Vantage at [alphavantage.co](https://www.alphavantage.co/support/#api-key)
+Similarly, you can obtain your API key for Alpha Vantage at [alphavantage.co](https://www.alphavantage.co/support/#api-key).
 
 Once you have obtained your API keys, please replace the placeholder names 'PUSHBULLET_API_KEY' and 'ALPHAV_API_KEY' with yours. 
 
